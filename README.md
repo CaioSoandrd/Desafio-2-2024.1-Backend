@@ -45,4 +45,4 @@ A desafio consiste em entregar 5 arquivos:
 - A entrega do desafio deve ser realizada através de uma Release no GitHub.
   - Crie a release no seu repositório pessoal e envie o zip pelo google classroom.
 - O candidato não deve excluir o repositório e nem a release após a entrega, pois a utilização do GitHub será avaliada.
-- Data de entrega 09/06/2024
+- Data de entrega 22/02/2025
